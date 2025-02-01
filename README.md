@@ -90,6 +90,15 @@ space-quiz-adventure/
 - Add sound effects and background music
 - Implement difficulty levels
 
+## Screenshots
+
+Here are some screenshots of the Space Quiz Adventure in action:
+
+![Start Screen](./start-screen.jpeg)
+![Quiz Screen](./quiz-screen.png)
+![Result Screen](./result-screen.png)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
