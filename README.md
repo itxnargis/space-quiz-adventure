@@ -94,9 +94,10 @@ space-quiz-adventure/
 
 Here are some screenshots of the Space Quiz Adventure in action:
 
-![Start Screen](./start-screen.jpeg)
-![Quiz Screen](./quiz-screen.png)
-![Result Screen](./result-screen.png)
+![Start Screen](public/start-screen.jpeg)
+![Quiz Screen](public/quiz-screen.png)
+![Result Screen](public/result-screen.png)
+
 
 
 ## Contributing
